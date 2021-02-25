@@ -1,0 +1,27 @@
+.container {
+    background-color: blue;
+    padding: 15px;
+    width: 900px;
+    float: right;
+}
+
+.sidebar {
+    background-color: blue;
+    float: left;
+    width: 30%;
+    height: 400px;
+}
+
+.content {
+    background-color: blue;
+    width: 30%px;
+    float: 400px;
+}
+
+.h1 {
+    margin: 10px;
+}
+
+.h2 {
+    margin: 10px;
+}
